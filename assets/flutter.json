@@ -1,0 +1,49 @@
+[
+  {
+    "1": "Which one is a  type of widgets in Flutter?",
+    "2": "Which is not an advantage of Flutter framework?",
+    "3": "Which of the following is not a requirement for flutter Development ?",
+    "4": "Alt + Enter/ Command + Enter is used for all except",
+    "5": "Which is not a type of flutter button?"
+  },
+  {
+    "1": {
+      "a": "StateclassWidget",
+      "b": "StatelessWidget",
+      "c": "StainlessWidget",
+      "d": "StatenessWidget"
+    },
+    "2": {
+      "a": "Faster Development",
+      "b": "long to reload",
+      "c": "Minimal code",
+      "d": "UI Focused"
+    },
+    "3": {
+      "a": "Disk Space",
+      "b": "Mac Laptop",
+      "c": "IDE",
+      "d": "SDK"
+    },
+    "4": {
+      "a": "wrap",
+      "b": "debug",
+      "c": "swap",
+      "d": "remove"
+    },
+    "5": {
+      "a": "flatButton",
+      "b": "FloatingTopButton",
+      "c": "FloatingActionButton",
+      "d": "RaisedButton"
+    }
+  },
+
+  {
+    "1": "StatelessWidget",
+    "2": "long to reload",
+    "3": "Mac Laptop",
+    "4": "debug",
+    "5": "FloatingTopButton"
+  }
+]
